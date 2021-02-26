@@ -5,3 +5,5 @@ Este é um projeto da disciplina de Sistema de tempo real, onde foi pedido que d
 Ao final da execução, seria exibido o tempo de reação médio e sua pontuação de acertos.
 
 Para constuir essa aplicação, utilizei o python para criar a logica e a biblioteca OpenCV para criar a interface gráfica.
+
+O video de execuão pode ser encontrado [aqui](https://youtu.be/zR3CQ8zqx74)
